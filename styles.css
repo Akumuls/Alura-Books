@@ -8,10 +8,10 @@
 :root {
     --cor-de-fundo: #2F4F4F;
     --branco: #FFFFFF;
-    --SpringGreen: #00FF7F;
+    --MediumSeaGreen: #8FBC8F;
     --MediumPurple: linear-gradient(97.54deg, #9400D3 35.49%, #9370DB 165.37%);
     --fonte-principal: "Poppins";
-    --SanyBrown: #F4A460;
+    --Chocolate: #D2691E;
 }
 
 body {
