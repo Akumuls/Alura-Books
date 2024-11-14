@@ -6,8 +6,8 @@
 @import url("styles/rodapé.css");
 
 :root {
-    --cor-de-fundo: #FFFFFF;
-    --DarkTurquoise: #00CED1;
+    --cor-de-fundo: #2F4F4F;
+    --branco: #FFFFFF;
     --SpringGreen: #00FF7F;
     --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
